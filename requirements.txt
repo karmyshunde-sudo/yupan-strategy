@@ -1,0 +1,6 @@
+akshare
+baostock
+requests
+pandas
+pytz
+tushare
